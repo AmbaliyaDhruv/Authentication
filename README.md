@@ -1,6 +1,9 @@
 # Authentication-API
 Mock-API for Authentication 
 
+# Usage
+You able to use these features which login, signup. Also I want to say, I've done login and signup requests use client side. If you want to look at below request.
+
 # URL
 https://marriott-bonvoy.herokuapp.com
 
