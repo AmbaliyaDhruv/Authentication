@@ -8,7 +8,7 @@ You able to use these features which login, signup. Also I want to say, I've don
 https://marriott-bonvoy.herokuapp.com
 
 # Register
-POST URL - /auth/register
+POST URL -/Register
 
 ``` 
 {
@@ -47,7 +47,7 @@ _id: "6231d2c37df2a8ae87a4e34d"
 ```
 
 # Login
-POST URL - /auth/login
+POST URL -/login
 ```
 {
   "password": "secret",
