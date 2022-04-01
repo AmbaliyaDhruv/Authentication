@@ -51,7 +51,7 @@ POST URL -/login
 ```
 {
   "password": "secret",
-  "username": "masai-school"
+  "email": "masai-school"
 }
 ```
 # RESPONSE
