@@ -18,7 +18,7 @@ app.use(express.urlencoded({
 
 app.use(express.static("public"))
 app.use(cros({
-    origin:"http://127.0.0.1:5500"
+    origin:"*"
 }))
 
 
