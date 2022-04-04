@@ -6,7 +6,7 @@ const express=require("express");
 // const router=express.Router();
 
 const newToken = (user) => {
-    return jwt.sign({ user }, "dhruv1112");
+    return jwt.sign({ user },process.env.SECRET_KEY);
   };
 
 const User=require("../model/user.model");
